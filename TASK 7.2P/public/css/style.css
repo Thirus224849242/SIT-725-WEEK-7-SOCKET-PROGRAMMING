@@ -1,0 +1,95 @@
+.navbar-size {
+  width: 100%;
+  margin: 0 auto;
+}
+.user-image-size {
+  height: 56px;
+  margin: 4px 0;
+}
+.main-body {
+
+  color: white;
+  height: calc(100vh - 64px);
+}
+.materialboxed-image {
+  margin: 0 auto;
+  height: 400px;
+}
+.click-me-button {
+ 
+  margin-top: 50px;
+  
+}
+.btn{
+  background-color:#E5B80B;
+}
+
+.main-body{
+  background-image: url("https://images6.alphacoders.com/135/1355172.png");
+}
+
+.nav-wrapper{
+  background-color: #d79e00;
+}
+.card-text{
+  color: black;
+}
+.flow-text{
+  font-style: italic;
+}
+.headin{
+  color: #E5B80B;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* .modal2{
+  width: 36%;
+  height:fit-content 
+}
+.modal-fixed-footer2{
+  width: 36%;
+  height:fit-content
+} */
+/* .user-image-size {
+  height: 27px;
+  margin: -1px 387px;
+  justify-content: center;
+} */
+
+/* .modal.modal-fixed-footer {
+  padding: 0;
+  height: 53%;
+  width: 25%;
+}
+.modal-fixed-footer {
+ 
+  height: 53%;
+ 
+} */
+.modal.modal-fixed-footer {
+  padding: 0;
+  height: 59%;
+  width: 23%;
+}
+.modal2.modal-fixed-footer {
+  padding: 0;
+  height: 59%;
+}
+.message{
+margin-left: auto;
+}
+
+h1 {
+  font-size: 28px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+#number {
+  font-size: 48px;
+  font-weight: bold;
+  color: #007bff;
+  padding: 20px;
+  border: 2px dashed #007bff;
+  border-radius: 10px;
+  background-color: #e6f0ff;
+}
